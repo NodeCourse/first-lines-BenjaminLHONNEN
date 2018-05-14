@@ -1,0 +1,26 @@
+{
+  "name": "first-lines-benjaminlhonnen",
+  "version": "1.0.0",
+  "description": "This is a pretty simple Node.js exercise, the goal is to:",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "fs": "^0.0.1-security"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NodeCourse/first-lines-BenjaminLHONNEN.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NodeCourse/first-lines-BenjaminLHONNEN/issues"
+  },
+  "homepage": "https://github.com/NodeCourse/first-lines-BenjaminLHONNEN#readme"
+}
